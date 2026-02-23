@@ -15,11 +15,13 @@ nav:
   - Contributing:
     - contributing/CODE_OF_CONDUCT.md
     - contributing/CONTRIBUTING.md
+    - contributing/SECURITY.md
     - contributing/style-guide.md
     - contributing/environment_setup.md
     - contributing/gen_badge.md
     - contributing/testing.md
     - contributing/typechecking.md
+    - contributing/github-actions-file-patterns.md
   - Components:
     - Page Objects: page.md
     - Collection Objects:
